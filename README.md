@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rj2024
 - 👀 I’m interested in ...web_development
-- 🌱 I’m currently learning ...css
+- 🌱 I’m currently learning ...javascript
 - 💞️ I’m looking to collaborate on ...projects_on_html_and_css
 - 📫 How to reach me ... mail me: rajatjana2020@gmail.com
 
